@@ -1,5 +1,27 @@
 # @mdn/browser-compat-data release notes
 
+## [v5.6.16](https://github.com/mdn/browser-compat-data/releases/tag/v5.6.16)
+
+November 12, 2024
+
+### Removals
+
+- `css.selectors.blank` ([#24976](https://github.com/mdn/browser-compat-data/pull/24976))
+- `css.selectors.column` ([#24976](https://github.com/mdn/browser-compat-data/pull/24976))
+- `http.headers.Sec-CH-Save-Data` ([#25043](https://github.com/mdn/browser-compat-data/pull/25043))
+
+### Additions
+
+- `api.ServiceWorkerContainer.worker_support` ([#24993](https://github.com/mdn/browser-compat-data/pull/24993))
+- `browsers.nodejs.releases.22.1.0` ([#25050](https://github.com/mdn/browser-compat-data/pull/25050))
+
+### Statistics
+
+- 10 contributors have changed 45 files with 272 additions and 318 deletions in 26 commits ([`v5.6.14...v5.6.16`](https://github.com/mdn/browser-compat-data/compare/v5.6.14...v5.6.16))
+- 16,704 total features
+- 1,115 total contributors
+- 4,975 total stargazers
+
 ## [v5.6.15](https://github.com/mdn/browser-compat-data/releases/tag/v5.6.15)
 
 November 12, 2024
